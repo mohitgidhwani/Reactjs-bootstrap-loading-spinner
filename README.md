@@ -16,3 +16,7 @@ The spinner **automatically changes color** based on the selected light or dark 
 ![Home Page Preview](./public/Previews/Lighttheme.png)
 
 The same **conditional rendering** logic is used on the **Home** page as well.
+
+![Product Page Preview](./public/Previews/Screenshot%20(193).png)
+
+The product page render cards using bootstrap grid layout.

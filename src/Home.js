@@ -15,7 +15,6 @@ function Home() {
     <>
       {load ? (
         <>
-          
           <section className="d-flex align-items-center justify-content-center text-center text-white min-vh-100" style={{
             background: `
               linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
